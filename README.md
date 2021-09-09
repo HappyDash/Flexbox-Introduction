@@ -8,4 +8,6 @@ The following simple layout designs are either difficult or impossible to achiev
 - Making all the children of a container take up an equal amount of the available width/height, regardless of how much width/height is available.
 - Making all columns in a multiple-column layout adopt the same height even if they contain a different amount of content.
 
+Flexbox makes a lot of layout tasks much easier.
+
 Open index.html for a demonstration of the effects different properties and values configurations have on flex content.
